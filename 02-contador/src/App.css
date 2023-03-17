@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+  background-color: #1b1b32;
+}
+
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px ;
+  font-family: Lato, sans-serif;
+}
+
+.contenedor-logo{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.contenedor-logo img{
+  max-width: 100%;
+}
+
