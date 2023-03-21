@@ -1,0 +1,14 @@
+h1{
+    margin: 0;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    font-size: calc(1.425rem + 2.1vw);
+    color: #61DBFB;
+}

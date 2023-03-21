@@ -1,0 +1,12 @@
+main{
+  background: rgb(33,37,41);
+background: linear-gradient(180deg, rgba(33,37,41,1) 0%, rgba(33,37,41,0.8) 20%, rgba(97,219,251,0.6) 30%, rgba(211,206,217,0.5) 50%, rgba(97,219,251,0.6) 70%, rgba(33,37,41,0.8) 80%, rgba(33,37,41,1) 100%);
+}
+.contenedor {
+  max-width: 1200px;
+  min-height: 50vh;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/*Estilos*/
